@@ -1,3 +1,3 @@
 #Projekts
 
-Webseite for my comany: https://soonmoon-it-services.com
+Website for my company: https://soonmoon-it-services.com
